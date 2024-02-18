@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello! I'm Yunus Emre :raising_hand_man:
 
-<!--
-**Yunussemrey/Yunussemrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atatürk University - **Computer Programming** | senior grade student 🎓
+- I am improving myself in the field of _backend java programming_.
+- I am proficient in **OOP** (Object Oriented Programming) and **SOLID** coding techniques.
+-  I know language _english_ at **B1** level.
+-  I’m currently working on _android mobile applications_.
+-  I’m currently learning at web programming in _javascript_. 
+-  I am successful in crisis management algorithm design and analytical thinking.
 
-Here are some ideas to get you started:
+  ## My Social Media Accounts
+   - [Linkedln] (https://www.linkedin.com/in/yunussemrey/).
+   - Medium (https://medium.com/@yunussemrey1).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
