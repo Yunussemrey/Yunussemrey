@@ -1,6 +1,6 @@
 # Hello! I'm Yunus Emre :raising_hand_man:
 
-- Atatürk University - **Computer Programming** | senior grade student 🎓
+- Anadolu University - **Computer Programming** | senior grade student 🎓
 - I am improving myself in the field of _backend java programming_.
 - I am proficient in **OOP** (Object Oriented Programming) and **SOLID** coding techniques.
 -  I know language _english_ at **B1** level.
